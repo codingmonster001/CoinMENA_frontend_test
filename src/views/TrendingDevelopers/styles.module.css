@@ -1,0 +1,56 @@
+.title {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 24px;
+  color: white;
+}
+.subtitle {
+  text-align: center;
+  font-size: 14px;
+  margin-top: 10px;
+  color: #aaaaaa;
+}
+.seperator {
+  height: 1px;
+  margin-top: 50px;
+  background: #888888;
+}
+.content {
+  border-radius: 5px;
+  border: 1px solid #888888;
+  margin: 20px auto;
+  max-width: 1012px;
+}
+.tableheader {
+  background: #111a20;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 30px 0px 20px;
+}
+.tab {
+  display: flex;
+}
+.tab_left {
+  border-radius: 5px 0px 0px 5px;
+  border: 1px solid #888888;
+  border-right: none;
+  height: 40px;
+  line-height: 40px;
+  padding: 0px 15px;
+  cursor: pointer;
+}
+.tab_right {
+  border-radius: 0px 5px 5px 0px;
+  border: 1px solid #888888;
+  border-left: none;
+  height: 40px;
+  background: #186be8;
+  line-height: 40px;
+  padding: 0px 15px;
+  cursor: pointer;
+}
+.filter_group {
+  display: flex;
+}

@@ -1,0 +1,56 @@
+.item {
+  padding: 15px;
+  color: #888888;
+  border-bottom: 1px solid #888888;
+  display: flex;
+}
+.rank {
+  font-size: 10px;
+}
+.userpart {
+  display: flex;
+  align-items: center;
+  margin-left: 30px;
+}
+.namepart {
+  display: flex;
+  flex-direction: column;
+  margin-left: 15px;
+  width: 300px;
+}
+.namelink {
+  text-decoration: none;
+  font-size: 18px;
+  color: #0969da;
+  font-weight: bold;
+}
+.usernamelink {
+  text-decoration: none;
+  font-size: 14px;
+  color: #888888;
+}
+.namelink:hover {
+  text-decoration: underline;
+}
+.usernamelink:hover {
+  text-decoration: underline;
+}
+.repopart {
+  flex: 1;
+}
+.popular {
+  font-size: 12px;
+}
+.reponame_part {
+  display: flex;
+  align-items: center;
+}
+.reponame {
+  font-size: 14px;
+  color: #0969da;
+  margin-left: 5px;
+  text-decoration: none;
+}
+reponame:hover {
+  text-decoration: underline;
+}
