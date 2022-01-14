@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ac0af401.css",
-    "main.js": "/static/js/main.b2edc2b4.js",
-    "static/js/787.edd59a96.chunk.js": "/static/js/787.edd59a96.chunk.js",
-    "index.html": "/index.html",
-    "main.ac0af401.css.map": "/static/css/main.ac0af401.css.map",
-    "main.b2edc2b4.js.map": "/static/js/main.b2edc2b4.js.map",
-    "787.edd59a96.chunk.js.map": "/static/js/787.edd59a96.chunk.js.map"
+    "main.css": "/CoinMENA_frontend_test/static/css/main.ac0af401.css",
+    "main.js": "/CoinMENA_frontend_test/static/js/main.2d7793ba.js",
+    "static/js/787.82680813.chunk.js": "/CoinMENA_frontend_test/static/js/787.82680813.chunk.js",
+    "index.html": "/CoinMENA_frontend_test/index.html",
+    "main.ac0af401.css.map": "/CoinMENA_frontend_test/static/css/main.ac0af401.css.map",
+    "main.2d7793ba.js.map": "/CoinMENA_frontend_test/static/js/main.2d7793ba.js.map",
+    "787.82680813.chunk.js.map": "/CoinMENA_frontend_test/static/js/787.82680813.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac0af401.css",
-    "static/js/main.b2edc2b4.js"
+    "static/js/main.2d7793ba.js"
   ]
 }
